@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\bin\Debug\Common.Domain.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\bin\Debug\Common.Domain.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\obj\Debug\Common.Domain.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\obj\Debug\Common.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\obj\Debug\Common.Domain.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Domain\obj\Debug\Common.Domain.pdb

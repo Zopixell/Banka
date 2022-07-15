@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Server.Repository.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Server.Repository.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Common.Domain.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Server.DatabaseBroker.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Common.Domain.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\bin\Debug\Server.DatabaseBroker.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\obj\Debug\Server.Repository.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\obj\Debug\Server.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\obj\Debug\Server.Repository.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\obj\Debug\Server.Repository.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.Repository\obj\Debug\Server.Repository.pdb

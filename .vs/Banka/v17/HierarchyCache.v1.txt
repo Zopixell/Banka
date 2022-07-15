@@ -1,0 +1,384 @@
+﻿++Solution 'Banka' ‎(8 of 8 projects)
+i:{00000000-0000-0000-0000-000000000000}:Banka.sln
+++Common.Communication
+i:{00000000-0000-0000-0000-000000000000}:Common.Communication
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++Properties
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\properties\
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\properties\
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.applicationlogic\properties\
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.databasebroker\properties\
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.repository\properties\
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\properties\
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\
+++References
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++CommunicationHelper.cs
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\communicationhelper.cs
+++Operation.cs
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\operation.cs
+++Request.cs
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\request.cs
+++Response.cs
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\response.cs
+++AssemblyInfo.cs
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.communication\properties\assemblyinfo.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\properties\assemblyinfo.cs
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.applicationlogic\properties\assemblyinfo.cs
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.databasebroker\properties\assemblyinfo.cs
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.repository\properties\assemblyinfo.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\properties\assemblyinfo.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\assemblyinfo.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\assemblyinfo.cs
+++Microsoft.CSharp
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Core
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Data
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Data.DataSetExtensions
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Net.Http
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Xml
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Xml.Linq
+i:{4e9d6598-206c-47ed-b652-d4fb3f8a42f8}:
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++Common.Domain
+i:{00000000-0000-0000-0000-000000000000}:Common.Domain
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++Bankar.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\bankar.cs
+++FizickoLice.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\fizickolice.cs
+++IDomainObjects.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\idomainobjects.cs
+++Korisnik.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\korisnik.cs
+++PravnoLice.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\pravnolice.cs
+++StatusUgovora.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\statusugovora.cs
+++Stavka.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\stavka.cs
+++Ugovor.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\ugovor.cs
+++Usluga.cs
+i:{50881409-0d62-48f2-9ae7-8746693b24a4}:c:\users\korisnik\desktop\projektovanje softvera\banka\common.domain\usluga.cs
+++Server.ApplicationLogic
+i:{00000000-0000-0000-0000-000000000000}:Server.ApplicationLogic
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++Controller.cs
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.applicationlogic\controller.cs
+++Server.SystemOperations
+i:{fcecf667-3ead-4b38-86d7-c20760369977}:
+i:{00000000-0000-0000-0000-000000000000}:Server.SystemOperations
+++Server.DatabaseBroker
+i:{00000000-0000-0000-0000-000000000000}:Server.DatabaseBroker
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:
+++Broker.cs
+i:{4dd61d32-c871-4061-8a58-7436e388171d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.databasebroker\broker.cs
+++Server.Repository
+i:{00000000-0000-0000-0000-000000000000}:Server.Repository
+i:{07453f4d-130a-4349-92d1-98922957d438}:
+++DatabaseRepository
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.repository\databaserepository\
+++GenericDbRepository.cs
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.repository\databaserepository\genericdbrepository.cs
+++IRepository.cs
+i:{41888ce6-9d0b-4142-928a-f0b760921bc7}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.repository\databaserepository\irepository.cs
+++KreirajUgovorSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\kreirajugovorso.cs
+++LoginSo.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\loginso.cs
+++ObrisiFizickoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\obrisifizickoliceso.cs
+++ObrisiPravnoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\obrisipravnoliceso.cs
+++ObrisiUsluguSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\obrisiusluguso.cs
+++PronadjiFizickaLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\pronadjifizickalicaso.cs
+++PronadjiKorisnikaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\pronadjikorisnikaso.cs
+++PronadjiPravnaLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\pronadjipravnalicaso.cs
+++PronadjiUgovorSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\pronadjiugovorso.cs
+++PronadjiUsluguSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\pronadjiusluguso.cs
+++RaskiniUgovorSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\raskiniugovorso.cs
+++SystemOperationBase.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\systemoperationbase.cs
+++UcitajUgovorSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\ucitajugovorso.cs
+++UcitajUsluguSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\ucitajusluguso.cs
+++UnosFizickogLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\unosfizickoglicaso.cs
+++UnosPravnogLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\unospravnoglicaso.cs
+++VratiFizickoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratifizickoliceso.cs
+++VratiPravnoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratipravnoliceso.cs
+++VratiSvaFizickaLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratisvafizickalicaso.cs
+++VratiSvaPravnaLicaSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratisvapravnalicaso.cs
+++VratiSveBankareSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratisvebankareso.cs
+++VratiSveKorisnikeSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratisvekorisnikeso.cs
+++VratiSveUslugeSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\vratisveuslugeso.cs
+++ZapamtiBankarskuUsluguSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\zapamtibankarskuusluguso.cs
+++ZapamtiFizickoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\zapamtifizickoliceso.cs
+++ZapamtiPravnoLiceSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\zapamtipravnoliceso.cs
+++ZapamtiUgovorSO.cs
+i:{07453f4d-130a-4349-92d1-98922957d438}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.systemoperations\zapamtiugovorso.cs
+++Server.Main
+i:{00000000-0000-0000-0000-000000000000}:Server.Main
+++App.config
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\app.config
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\app.config
+++ClientHandler.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\clienthandler.cs
+++FrmServer.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\frmserver.cs
+++Program.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\program.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\program.cs
+++Server.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\server.cs
+++Resources.resx
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\resources.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\resources.resx
+++Settings.settings
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\settings.settings
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\settings.settings
+++System.Deployment
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Drawing
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++System.Windows.Forms
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:
+++FrmServer.Designer.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\frmserver.designer.cs
+++FrmServer.resx
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\frmserver.resx
+++Resources.Designer.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\resources.designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{c556131a-77c4-4d38-8353-7fcf67eb5f7d}:c:\users\korisnik\desktop\projektovanje softvera\banka\server.main\properties\settings.designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\properties\settings.designer.cs
+++Client.Forms
+i:{00000000-0000-0000-0000-000000000000}:Client.Forms
+++Exeptions
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\exeptions\
+++GUIController
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\
+++BrisanjeFizickogLicaController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\brisanjefizickoglicacontroller.cs
+++BrisanjePravnogLicaController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\brisanjepravnoglicacontroller.cs
+++BrisanjeUslugeController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\brisanjeuslugecontroller.cs
+++FizickoLiceController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\fizickolicecontroller.cs
+++IzmenaFizickogLicaController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\izmenafizickoglicacontroller.cs
+++IzmenaPravnogLicaController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\izmenapravnoglicacontroller.cs
+++IzmenaUgovoraController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\izmenaugovoracontroller.cs
+++LoginController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\logincontroller.cs
+++PravnoLiceController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\pravnolicecontroller.cs
+++RaskidUgovoraController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\raskidugovoracontroller.cs
+++UgovorController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\ugovorcontroller.cs
+++UslugaController.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\guicontroller\uslugacontroller.cs
+++Korisnik
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\
+++UCFizickoLice.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucfizickolice.cs
+++UCIzmenaFizickoLice.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenafizickolice.cs
+++UCIzmenaPravnoLice.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenapravnolice.cs
+++UCKorisnikPravnoLicePretraga.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpravnolicepretraga.cs
+++UCKorisnikPretraga.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpretraga.cs
+++UCPravnoLice.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucpravnolice.cs
+++ServerCommunication
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\servercommunication\
+++Session
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\session\
+++Ugovor
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\
+++UCIzmeniUgovor.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucizmeniugovor.cs
+++UCRaskidanjeUgovora.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucraskidanjeugovora.cs
+++UCRaskidanjeUgovora.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucraskidanjeugovora.designer.cs
+++UCRaskidanjeUgovora.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucraskidanjeugovora.resx
+++UCUgovor.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucugovor.cs
+++Usluga
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\
+++UCBrisanjeUsluge.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucbrisanjeusluge.cs
+++UCUsluga.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucusluga.cs
+++Validacije
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\validacije\
+++Helper.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\validacije\helper.cs
+++FrmLogin.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmlogin.cs
+++FrmMain.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmmain.cs
+++ServerCommunicationException.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\exeptions\servercommunicationexception.cs
+++SystemOperationException.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\exeptions\systemoperationexception.cs
+++UCFizickoLice.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucfizickolice.designer.cs
+++UCFizickoLice.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucfizickolice.resx
+++UCIzmenaFizickoLice.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenafizickolice.designer.cs
+++UCIzmenaFizickoLice.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenafizickolice.resx
+++UCIzmenaPravnoLice.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenapravnolice.designer.cs
+++UCIzmenaPravnoLice.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucizmenapravnolice.resx
+++UCKorisnikPravnoLicePretraga.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpravnolicepretraga.designer.cs
+++UCKorisnikPravnoLicePretraga.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpravnolicepretraga.resx
+++UCKorisnikPretraga.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpretraga.designer.cs
+++UCKorisnikPretraga.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\uckorisnikpretraga.resx
+++UCPravnoLice.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucpravnolice.designer.cs
+++UCPravnoLice.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\korisnik\ucpravnolice.resx
+++Communication.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\servercommunication\communication.cs
+++SessionData.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\session\sessiondata.cs
+++UCIzmeniUgovor.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucizmeniugovor.designer.cs
+++UCIzmeniUgovor.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucizmeniugovor.resx
+++UCUgovor.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucugovor.designer.cs
+++UCUgovor.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\ugovor\ucugovor.resx
+++UCBrisanjeUsluge.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucbrisanjeusluge.designer.cs
+++UCBrisanjeUsluge.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucbrisanjeusluge.resx
+++UCUsluga.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucusluga.designer.cs
+++UCUsluga.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\usluga\ucusluga.resx
+++FrmLogin.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmlogin.designer.cs
+++FrmLogin.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmlogin.resx
+++FrmMain.Designer.cs
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmmain.designer.cs
+++FrmMain.resx
+i:{f6d92cf5-2f4c-45d4-a15e-743106fffced}:c:\users\korisnik\desktop\projektovanje softvera\banka\client.forms\frmmain.resx

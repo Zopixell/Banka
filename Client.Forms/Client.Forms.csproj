@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6D92CF5-2F4C-45D4-A15E-743106FFFCED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Client.Forms</RootNamespace>
+    <AssemblyName>Client.Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Exeptions\ServerCommunicationException.cs" />
+    <Compile Include="Exeptions\SystemOperationException.cs" />
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIController\BrisanjeFizickogLicaController.cs" />
+    <Compile Include="GUIController\BrisanjePravnogLicaController.cs" />
+    <Compile Include="GUIController\BrisanjeUslugeController.cs" />
+    <Compile Include="GUIController\FizickoLiceController.cs" />
+    <Compile Include="GUIController\IzmenaPravnogLicaController.cs" />
+    <Compile Include="GUIController\IzmenaUgovoraController.cs" />
+    <Compile Include="GUIController\IzmenaFizickogLicaController.cs" />
+    <Compile Include="GUIController\LoginController.cs" />
+    <Compile Include="GUIController\PravnoLiceController.cs" />
+    <Compile Include="GUIController\RaskidUgovoraController.cs" />
+    <Compile Include="GUIController\UgovorController.cs" />
+    <Compile Include="GUIController\UslugaController.cs" />
+    <Compile Include="Korisnik\UCFizickoLice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCFizickoLice.Designer.cs">
+      <DependentUpon>UCFizickoLice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnik\UCIzmenaPravnoLice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCIzmenaPravnoLice.Designer.cs">
+      <DependentUpon>UCIzmenaPravnoLice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnik\UCIzmenaFizickoLice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCIzmenaFizickoLice.Designer.cs">
+      <DependentUpon>UCIzmenaFizickoLice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnik\UCKorisnikPravnoLicePretraga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCKorisnikPravnoLicePretraga.Designer.cs">
+      <DependentUpon>UCKorisnikPravnoLicePretraga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnik\UCKorisnikPretraga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCKorisnikPretraga.Designer.cs">
+      <DependentUpon>UCKorisnikPretraga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Korisnik\UCPravnoLice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Korisnik\UCPravnoLice.Designer.cs">
+      <DependentUpon>UCPravnoLice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerCommunication\Communication.cs" />
+    <Compile Include="Session\SessionData.cs" />
+    <Compile Include="Ugovor\UCIzmeniUgovor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ugovor\UCIzmeniUgovor.Designer.cs">
+      <DependentUpon>UCIzmeniUgovor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ugovor\UCRaskidanjeUgovora.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ugovor\UCRaskidanjeUgovora.Designer.cs">
+      <DependentUpon>UCRaskidanjeUgovora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ugovor\UCUgovor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ugovor\UCUgovor.Designer.cs">
+      <DependentUpon>UCUgovor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usluga\UCBrisanjeUsluge.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usluga\UCBrisanjeUsluge.Designer.cs">
+      <DependentUpon>UCBrisanjeUsluge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usluga\UCUsluga.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Usluga\UCUsluga.Designer.cs">
+      <DependentUpon>UCUsluga.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validacije\Helper.cs" />
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCFizickoLice.resx">
+      <DependentUpon>UCFizickoLice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCIzmenaPravnoLice.resx">
+      <DependentUpon>UCIzmenaPravnoLice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCIzmenaFizickoLice.resx">
+      <DependentUpon>UCIzmenaFizickoLice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCKorisnikPravnoLicePretraga.resx">
+      <DependentUpon>UCKorisnikPravnoLicePretraga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCKorisnikPretraga.resx">
+      <DependentUpon>UCKorisnikPretraga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Korisnik\UCPravnoLice.resx">
+      <DependentUpon>UCPravnoLice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ugovor\UCIzmeniUgovor.resx">
+      <DependentUpon>UCIzmeniUgovor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ugovor\UCRaskidanjeUgovora.resx">
+      <DependentUpon>UCRaskidanjeUgovora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ugovor\UCUgovor.resx">
+      <DependentUpon>UCUgovor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usluga\UCBrisanjeUsluge.resx">
+      <DependentUpon>UCBrisanjeUsluge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usluga\UCUsluga.resx">
+      <DependentUpon>UCUsluga.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Communication\Common.Communication.csproj">
+      <Project>{4E9D6598-206C-47ED-B652-D4FB3F8A42F8}</Project>
+      <Name>Common.Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common.Domain\Common.Domain.csproj">
+      <Project>{50881409-0D62-48F2-9AE7-8746693B24A4}</Project>
+      <Name>Common.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server.ApplicationLogic\Server.ApplicationLogic.csproj">
+      <Project>{FCECF667-3EAD-4B38-86D7-C20760369977}</Project>
+      <Name>Server.ApplicationLogic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

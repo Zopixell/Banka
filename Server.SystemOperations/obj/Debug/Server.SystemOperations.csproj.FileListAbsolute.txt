@@ -1,0 +1,13 @@
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.SystemOperations.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.SystemOperations.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Common.Domain.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.Repository.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.DatabaseBroker.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Common.Domain.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.Repository.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\bin\Debug\Server.DatabaseBroker.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\obj\Debug\Server.SystemOperations.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\obj\Debug\Server.SystemOperations.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\obj\Debug\Server.SystemOperations.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\obj\Debug\Server.SystemOperations.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.SystemOperations\obj\Debug\Server.SystemOperations.pdb

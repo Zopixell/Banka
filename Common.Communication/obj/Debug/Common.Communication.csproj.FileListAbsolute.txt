@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\bin\Debug\Common.Communication.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\bin\Debug\Common.Communication.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\obj\Debug\Common.Communication.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\obj\Debug\Common.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\obj\Debug\Common.Communication.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Common.Communication\obj\Debug\Common.Communication.pdb

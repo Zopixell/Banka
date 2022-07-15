@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07453F4D-130A-4349-92D1-98922957D438}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Server.SystemOperations</RootNamespace>
+    <AssemblyName>Server.SystemOperations</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KreirajUgovorSO.cs" />
+    <Compile Include="LoginSo.cs" />
+    <Compile Include="ObrisiFizickoLiceSO.cs" />
+    <Compile Include="ObrisiPravnoLiceSO.cs" />
+    <Compile Include="ObrisiUsluguSO.cs" />
+    <Compile Include="PronadjiFizickaLicaSO.cs" />
+    <Compile Include="PronadjiKorisnikaSO.cs" />
+    <Compile Include="PronadjiPravnaLicaSO.cs" />
+    <Compile Include="PronadjiUgovorSO.cs" />
+    <Compile Include="PronadjiUsluguSO.cs" />
+    <Compile Include="RaskiniUgovorSO.cs" />
+    <Compile Include="SystemOperationBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UcitajUgovorSO.cs" />
+    <Compile Include="UcitajUsluguSO.cs" />
+    <Compile Include="UnosFizickogLicaSO.cs" />
+    <Compile Include="UnosPravnogLicaSO.cs" />
+    <Compile Include="VratiFizickoLiceSO.cs" />
+    <Compile Include="VratiPravnoLiceSO.cs" />
+    <Compile Include="VratiSvaFizickaLicaSO.cs" />
+    <Compile Include="VratiSvaPravnaLicaSO.cs" />
+    <Compile Include="VratiSveBankareSO.cs" />
+    <Compile Include="VratiSveKorisnikeSO.cs" />
+    <Compile Include="VratiSveUslugeSO.cs" />
+    <Compile Include="ZapamtiBankarskuUsluguSO.cs" />
+    <Compile Include="ZapamtiFizickoLiceSO.cs" />
+    <Compile Include="ZapamtiPravnoLiceSO.cs" />
+    <Compile Include="ZapamtiUgovorSO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Domain\Common.Domain.csproj">
+      <Project>{50881409-0D62-48F2-9AE7-8746693B24A4}</Project>
+      <Name>Common.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server.Repository\Server.Repository.csproj">
+      <Project>{41888CE6-9D0B-4142-928A-F0B760921BC7}</Project>
+      <Name>Server.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\bin\Debug\Server.DatabaseBroker.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\bin\Debug\Server.DatabaseBroker.pdb
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\obj\Debug\Server.DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\obj\Debug\Server.DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\obj\Debug\Server.DatabaseBroker.dll
+C:\Users\Korisnik\Desktop\Projektovanje Softvera\Banka\Server.DatabaseBroker\obj\Debug\Server.DatabaseBroker.pdb
